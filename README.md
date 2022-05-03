@@ -5,6 +5,6 @@
 - 📫 How to reach me 8960283599{whatsapp}...
 
 <!---
-Vaibhab8117/Vaibhab8117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+V8117/V8117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
